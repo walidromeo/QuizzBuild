@@ -95,7 +95,7 @@ let CurrentQ={};
 let AvaibleQ=[];
 let Score = 0;
 let CounterQ=0;
-const MaxQ=3;
+const MaxQ=6;
 const ScoreQ=10;
 let AcceptQ=true
 /*
